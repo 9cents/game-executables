@@ -1,4 +1,4 @@
-Run Dodgeware-Mac.dmg for Mac User.
-Run Dodgeware-Win.exe for Windows User.
-Put Dodgeware-Win.pck file at the same file directory as the exe
+Run Dodgeware-Mac OSX.dmg for Mac User.
+Run Dodgeware-Windows.exe for Windows User.
+Put Dodgeware-Windows.pck file in the same file directory as the exe
 
